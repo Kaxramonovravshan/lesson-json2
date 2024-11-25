@@ -2,6 +2,7 @@
   "burger": [
     {
       "id": 10000,
+      "categoryId": 1,
       "name": "Bacon,Egg & Cheese Biscuit",
       "images": [
         {
@@ -49,6 +50,7 @@
     },
     {
       "id": 1010,
+      "categoryId": 1,
       "name": "Egg McMuffin",
       "images": [
         {
@@ -96,6 +98,7 @@
     },
     {
       "id": 1030,
+      "categoryId": 1,
       "name": "Sausage McMuffin",
       "images": [
         {
@@ -133,6 +136,7 @@
     },
     {
       "id": 1040,
+      "categoryId": 1,
       "name": "Sausage McMuffin® with Egg",
       "images": [
         {
@@ -180,6 +184,7 @@
     },
     {
       "id": 1050,
+      "categoryId": 1,
       "name": "Sausage Biscuit",
       "images": [
         {
@@ -212,6 +217,7 @@
     },
     {
       "id": 1060,
+      "categoryId": 1,
       "name": "Sausage Biscuit with Egg",
       "images": [
         {
@@ -254,6 +260,7 @@
     },
     {
       "id": 1070,
+      "categoryId": 1,
       "name": "Bacon, Egg & Cheese McGriddles®",
       "images": [
         {
@@ -296,6 +303,7 @@
     },
     {
       "id": 1080,
+      "categoryId": 1,
       "name": "Crispy Chicken Sandwich",
       "images": [
         {
@@ -333,6 +341,7 @@
     },
     {
       "id": 1090,
+      "categoryId": 1,
       "name": "Deluxe Crispy Chicken Sandwich",
       "images": [
         {
@@ -375,6 +384,7 @@
     },
     {
       "id": 10100,
+      "categoryId": 1,
       "name": "Spicy Crispy Chicken Sandwich",
       "images": [
         {
@@ -412,6 +422,7 @@
     },
     {
       "id": 10110,
+      "categoryId": 1,
       "name": "Spicy Deluxe Crispy Chicken Sandwich",
       "images": [
         {
@@ -454,6 +465,7 @@
     },
     {
       "id": 10120,
+      "categoryId": 1,
       "name": "Filet-O-Fish®",
       "images": [
         {
@@ -496,6 +508,7 @@
     },
     {
       "id": 10130,
+      "categoryId": 1,
       "name": "McChicken®",
       "images": [
         {
@@ -533,6 +546,7 @@
     },
     {
       "id": 10140,
+      "categoryId": 1,
       "name": "Big Mac®",
       "images": [
         {
@@ -585,6 +599,7 @@
     },
     {
       "id": 10150,
+      "categoryId": 1,
       "name": "Quarter Pounder®* with Cheese",
       "images": [
         {
@@ -639,6 +654,7 @@
   "drinks": [
     {
       "id": "ea43ffb8500c4bc8a32faffa",
+      "categoryId": 2,
       "spirit_id": "gin",
       "cocktail_name": "20th Century",
       "description": "The 20th Century Cocktail made with gin, Lillet blanc, white creme de cacao and lemon juice. According to the book \"Cafe Royal Cocktail Book\" by William J. Tarling, The cocktail was created by British bartender C.A. Tuck and named for the luxurious 20th Century Limited passenger train that ran between New York City and Chicago from 1902 to 1967.",
@@ -734,6 +750,8 @@
     {
       "id": "e2677dfe0cc14bcfa9e0e5ed",
       "spirit_id": "gin",
+      "categoryId": 2,
+
       "cocktail_name": "50/50 Martini",
       "description": "The martini is a cocktail made with gin and vermouth, and garnished with an olive or a lemon twist. A 50/50 martini uses equal amounts of gin and vermouth.",
       "additional_tips": "",
@@ -827,6 +845,8 @@
     },
     {
       "id": "82869651ce2140288fcbea2e",
+      "categoryId": 2,
+
       "spirit_id": "whiskey",
       "cocktail_name": "7 and 7",
       "description": "A 7 and 7 is a highball cocktail, a mixed alcoholic drink containing Seagram's Seven Crown and 7 Up. It is typically served with ice. It was one of the most popular drinks in the United States during the 1970s.",
@@ -899,6 +919,8 @@
     },
     {
       "id": "300f86d70ea54ab5a9d40c20",
+      "categoryId": 2,
+
       "spirit_id": "vodka",
       "cocktail_name": "Adios Motherfucker",
       "description": "Adios Motherfucker or AMF (also known as Boston tea party) is considered a variation of the Long Island Iced Tea with Blue Curaçao substituting for the triple sec, and with lemon-lime soda substituting for the cola.",
@@ -1029,6 +1051,8 @@
     },
     {
       "id": "0b7ccfbaab3048a290f75070",
+      "categoryId": 2,
+
       "spirit_id": "other",
       "cocktail_name": "Adonis",
       "description": "The Adonis is a sherry and vermouth-based cocktail, with equal parts of both. The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway. The Adonis has been described as being a lower alcohol, easier drinking cocktail.",
@@ -1114,6 +1138,8 @@
     },
     {
       "id": "a85ea97848a949f39d76f6c6",
+      "categoryId": 2,
+
       "spirit_id": "other",
       "cocktail_name": "Alabama Slammer",
       "description": " An Alabama Slammer is a cocktail made with amaretto, Southern Comfort, sloe gin, and orange juice. It is served in a Collins glass. It is also sometimes known as a Southern Slammer. It is claimed to have been made famous by quarterback Brett Favre; however, this drink was popular with college crowds as early as the 1980s, when it was served as a shaker shot in many bars and was also available as a \"pitcher\" in T.G.I. Friday's and other chain restaurants.",
@@ -1208,6 +1234,8 @@
     },
     {
       "id": "39563742f10e4365a699e844",
+      "categoryId": 2,
+
       "spirit_id": "other",
       "cocktail_name": "Americano",
       "description": "Made with Campari, sweet vermouth, and for the sparkling version, club soda and garnished with a slice of lemon. The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari in Milan, in the 1860s. It is the direct descendant of the \"Milano-Torino\" which consisted of Campari, the bitter liqueur from Milan (Milano) and Punt e Mes, the vermouth from Turin (Torino) but lacked soda water.",
@@ -1308,6 +1336,8 @@
       "updated_at": null
     },
     {
+      "categoryId": 2,
+
       "id": "debe5c0f508d44dc94fb6a31",
       "spirit_id": "rum",
       "cocktail_name": "Ancient Mariner",
@@ -1411,6 +1441,8 @@
       "updated_at": null
     },
     {
+      "categoryId": 2,
+
       "id": "47347fe8b75f4d969e07fb5e",
       "spirit_id": "gin",
       "cocktail_name": "Angel Face",
@@ -1504,6 +1536,8 @@
     },
     {
       "id": "370160f845694672ab69f30d",
+      "categoryId": 2,
+
       "spirit_id": "tequila",
       "cocktail_name": "Aperol sunrise",
       "description": "The Aperol sunrise is a variant of tequila sunrise which substitutes Aperol orange liqueur for grenadine.",
@@ -1590,6 +1624,8 @@
     {
       "id": "9a21075a8b5b4482b81fe529",
       "spirit_id": "vodka",
+      "categoryId": 2,
+
       "cocktail_name": "Appletini",
       "description": "An apple martini (appletini for short) is a cocktail containing vodka and one or more of apple juice, apple cider, apple liqueur, or apple brandy. It is not a true martini, but is one of many drinks that incorporate the term martini into their names. This drink, originally called an Adam's Apple Martini because the bartender who created it was named Adam, was created in 1996 at Lola's West Hollywood restaurant.",
       "additional_tips": "",
@@ -1693,6 +1729,8 @@
     {
       "id": "6714fb4c621a4a179a189889",
       "spirit_id": "gin",
+      "categoryId": 2,
+
       "cocktail_name": "Aviation",
       "description": "The Aviation is a classic cocktail made with gin, maraschino liqueur, crème de violette, and lemon juice. Some recipes omit the crème de violette. It is served straight up, in a cocktail glass. The Aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe for the drink appeared in Ensslin's 1916 Recipes for Mixed Drinks. ",
       "additional_tips": "",
@@ -1794,6 +1832,8 @@
     {
       "id": "002113297f074eff93b2c6d1",
       "spirit_id": "vodka",
+      "categoryId": 2,
+
       "cocktail_name": "B and B",
       "description": "A \"B and B\" is made from equal parts of cognac (brandy) and Bénédictine. It is typically served on the rocks, but may also be served straight. The producers of Bénédictine market this cocktail ready-mixed under the label \"B & B.\" Chris Robinson of the Black Crowes mentions \"B & B and a little weed\" in the song Bad Luck Blue Eyes Goodbye.",
       "additional_tips": "",
@@ -1857,6 +1897,8 @@
     {
       "id": "e52401ccfe1a4daa8167bbf6",
       "spirit_id": "rum",
+      "categoryId": 2,
+
       "cocktail_name": "Barracuda",
       "description": "The barracuda is an alcoholic cocktail based on gold rum, Galliano liqueur, pineapple juice, fresh lime juice and topped with Prosecco, according to International Bartenders Association specified ingredients.",
       "additional_tips": "",
@@ -1967,6 +2009,8 @@
     {
       "id": "9a1726fda235454ca2252dd4",
       "spirit_id": "vodka",
+      "categoryId": 2,
+
       "cocktail_name": "Bay Breeze",
       "description": "The Bay Breeze is a cocktail which has a Cape Codder as its base, with the addition of pineapple juice. The drink is also sometimes called a Downeaster, Hawaiian Sea Breeze, or a Paul Joseph. This cocktail is similar to the Sea Breeze, an IBA Official Cocktail with grapefruit juice (rather than pineapple).",
       "additional_tips": "",
@@ -2052,6 +2096,8 @@
     {
       "id": "ae74ecfb007747809667de96",
       "spirit_id": "gin",
+      "categoryId": 2,
+
       "cocktail_name": "Bee's Knees",
       "description": "A Bees Knees (or Bee's Knees) is a Prohibition Era cocktail made with gin, fresh lemon juice, and honey. It is served shaken and chilled, often with a lemon twist. The name comes from prohibition-era slang meaning \"the best\". The Bee's Knees was invented by Frank Meier, an Austrian-born, part Jewish bartender who was the first head bartender at the Ritz in Paris in 1921, when its Cafe Parisian opened its doors.",
       "additional_tips": "",
@@ -2152,6 +2198,8 @@
     },
     {
       "id": "6617a28acaa345bd9853d924",
+      "categoryId": 2,
+
       "spirit_id": "other",
       "cocktail_name": "Bellini",
       "description": "A Bellini is a cocktail made with Prosecco and peach purée or nectar. It originated in Venice, Italy.",
@@ -2236,6 +2284,8 @@
     {
       "id": "336776fc7a954241b5df226f",
       "spirit_id": "brandy",
+      "categoryId": 2,
+
       "cocktail_name": "Between the Sheets",
       "description": "The Between the Sheets is a cocktail consisting of rum, cognac, triple sec, and lemon juice. The origin of the cocktail is usually credited to Harry MacElhone at Harry's New York Bar in Paris in the 1930s as a derivative of the sidecar. However, competing theories exist that claim the cocktail was created at The Berkeley in approximately 1921, or in French brothels as an apéritif for consumption by the prostitutes.",
       "additional_tips": "Aged rum can be used instead of light rum.",
@@ -2336,6 +2386,8 @@
     {
       "id": "eb8f94dfe2734e028ad862ca",
       "spirit_id": "vodka",
+      "categoryId": 2,
+
       "cocktail_name": "Bijou",
       "description": "A bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, \"the father of professional bartending\", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states \"mix well with a spoon and serve.\" This recipe is also one of the oldest in the manual, dating back to the 1890s.",
       "additional_tips": "",
@@ -2430,6 +2482,8 @@
     {
       "id": "6487a09a25db43fbb99e951d",
       "spirit_id": "vodka",
+      "categoryId": 2,
+
       "cocktail_name": "Black Russian",
       "description": "The Black Russian is a cocktail of vodka and coffee liqueur. It contains vodka and coffee liqueur. The drink is made by pouring the vodka and coffee liqueur over ice cubes or cracked ice in an old-fashioned glass and stirring. The Black Russian cocktail first appeared in 1949 and is ascribed to Gustave Tops, a Belgian barman, who created it at the Hotel Metropole in Brussels in honor of Perle Mesta, then United States Ambassador to Luxembourg. The cocktail owes its name to the use of vodka, a typical Russian spirit, and the blackness of the coffee liqueur.",
       "additional_tips": "",
@@ -2510,6 +2564,7 @@
   "pizza": [
     {
       "id": 201,
+      "categoryId": 4,
       "name": "Margherita",
       "veg": true,
       "price": 3,
@@ -2538,6 +2593,8 @@
     },
     {
       "id": 202,
+      "categoryId": 4,
+
       "name": "Tandoori Paneer",
       "veg": true,
       "price": 7,
@@ -2566,6 +2623,8 @@
     },
     {
       "id": 203,
+      "categoryId": 4,
+
       "name": "Veggie Supreme",
       "veg": true,
       "price": 8,
@@ -2594,6 +2653,8 @@
     },
     {
       "id": 204,
+      "categoryId": 4,
+
       "name": "Double Paneer Supreme",
       "veg": true,
       "price": 6,
@@ -2622,6 +2683,8 @@
     },
     {
       "id": 205,
+      "categoryId": 4,
+
       "name": "Veggie Kebab Surprise",
       "veg": true,
       "price": 4,
@@ -2651,6 +2714,8 @@
     {
       "id": 206,
       "name": "Chicken Supreme",
+      "categoryId": 4,
+
       "veg": false,
       "price": 7,
       "description": "Herbed Chicken,Schezwan Chicken Meatball,Chicken Tikka",
@@ -2678,6 +2743,8 @@
     },
     {
       "id": 207,
+      "categoryId": 4,
+
       "name": "Chicken Tikka Supreme",
       "veg": false,
       "price": 6,
@@ -2707,6 +2774,8 @@
     {
       "id": 208,
       "name": "Triple Chicken Feast",
+      "categoryId": 4,
+
       "veg": false,
       "price": 8,
       "description": "Schezwan Chicken Meatball Herbed Chicken,Chicken Sausage,Geen Capsicum, Onion,Red Paprika",
@@ -2735,6 +2804,8 @@
     {
       "id": 209,
       "name": "Chicken Tikka",
+      "categoryId": 4,
+
       "veg": false,
       "price": 7,
       "description": "Chicken Tikka, Onion, Tomato",
@@ -2763,6 +2834,8 @@
     {
       "id": 2010,
       "name": "Double Chicken Sausage",
+      "categoryId": 4,
+
       "veg": false,
       "price": 5,
       "description": "Chicken Sausage",
@@ -2791,6 +2864,8 @@
     {
       "id": 2011,
       "name": "Spiced Chicken Meatballs",
+      "categoryId": 4,
+
       "veg": false,
       "price": 4,
       "description": "Schezwan Chicken Meatball Onion",
@@ -2818,6 +2893,8 @@
     },
     {
       "id": 2012,
+      "categoryId": 4,
+
       "name": "Double Cheese",
       "veg": true,
       "price": 3,
@@ -2846,6 +2923,8 @@
     },
     {
       "id": 2013,
+      "categoryId": 4,
+
       "name": "Chicken Pepper Crunch",
       "veg": false,
       "price": 5,
@@ -2874,6 +2953,8 @@
     },
     {
       "id": 2014,
+      "categoryId": 4,
+
       "name": "Italian Chicken Feast",
       "veg": false,
       "price": 6,
@@ -2902,6 +2983,8 @@
     },
     {
       "id": 2015,
+      "categoryId": 4,
+
       "name": "Corn & Cheese",
       "veg": true,
       "price": 5,
@@ -2930,6 +3013,8 @@
     },
     {
       "id": 2016,
+      "categoryId": 4,
+
       "name": "Tandoori Onion",
       "veg": true,
       "price": 6,
@@ -2958,6 +3043,8 @@
     },
     {
       "id": 2017,
+      "categoryId": 4,
+
       "name": "Chicken Pepperoni",
       "veg": false,
       "price": 5,
@@ -2981,6 +3068,8 @@
     },
     {
       "id": 2018,
+      "categoryId": 4,
+
       "name": "Chicken N Corn Delight",
       "veg": false,
       "price": 9,
@@ -3009,6 +3098,8 @@
     },
     {
       "id": 2019,
+      "categoryId": 4,
+
       "name": "Farmers Pick",
       "veg": true,
       "price": 29,
@@ -3037,6 +3128,8 @@
     },
     {
       "id": 2020,
+      "categoryId": 4,
+
       "name": "Classic Corn",
       "veg": true,
       "price": 5,
@@ -3065,7 +3158,10 @@
     },
     {
       "id": 2120,
+
       "name": "Classic Onion Capsicum",
+      "categoryId": 4,
+
       "veg": true,
       "price": 4,
       "description": "Pizza topped with our Classic Pan sauce, crunchy onion & capsicum and cheesy dressing.",
@@ -3093,6 +3189,8 @@
     },
     {
       "id": 2221,
+      "categoryId": 4,
+
       "name": "Italian Onion Tomato",
       "veg": true,
       "price": 8,
@@ -3121,6 +3219,8 @@
     },
     {
       "id": 2322,
+      "categoryId": 4,
+
       "name": "Tandoori Mushroom & Sweet Corn",
       "veg": true,
       "price": 5,
@@ -3149,6 +3249,8 @@
     },
     {
       "id": 2423,
+      "categoryId": 4,
+
       "name": "Schezwan Corn & Capsicum",
       "veg": true,
       "price": 6,
@@ -3177,6 +3279,8 @@
     },
     {
       "id": 2524,
+      "categoryId": 4,
+
       "name": "Only Cheesy",
       "veg": true,
       "price": 40,
@@ -3205,6 +3309,8 @@
     },
     {
       "id": 2625,
+      "categoryId": 4,
+
       "name": "Classic Sausage",
       "veg": false,
       "price": 8,
@@ -3233,6 +3339,8 @@
     },
     {
       "id": 2726,
+      "categoryId": 4,
+
       "name": "Classic Paneer Capsicum & Onion",
       "veg": true,
       "price": 6,
@@ -3261,6 +3369,8 @@
     },
     {
       "id": 2827,
+      "categoryId": 4,
+
       "name": "Italian Pepperoni & Onion",
       "veg": false,
       "price": 5,
@@ -3289,6 +3399,8 @@
     },
     {
       "id": 2928,
+      "categoryId": 4,
+
       "name": "Schezwan Meatball & Capsicum",
       "veg": false,
       "price": 10,
@@ -3318,6 +3430,8 @@
     {
       "id": 3029,
       "name": "Tandoori Tikka & Onion",
+      "categoryId": 4,
+
       "veg": false,
       "price": 5,
       "description": "Pizza topped with our signature tandoori sauce, crunchy onion, flavorful chicken tikka and cheesy dressing.",
@@ -3346,6 +3460,8 @@
     {
       "id": 3130,
       "name": "Classic Loaded Chicken Delight",
+      "categoryId": 4,
+
       "veg": false,
       "price": 9,
       "description": "Pizza topped with our Classic Pan sauce, herbed chicken, flavorful sausages, juicy tomato and cheesy dressing.",
@@ -3375,6 +3491,8 @@
   "dessert": [
     {
       "id": 99,
+      "categoryId": 3,
+
       "name": "Choco Sundae",
       "price": 2,
       "description": "Choco Sundae Cup (100 ml)",
@@ -3383,6 +3501,8 @@
     },
     {
       "id": 98,
+      "categoryId": 3,
+
       "name": "Cornetto Double Chocolate",
       "price": 2,
       "description": "Cornetto Double Chocolate Cone (105 ml)",
@@ -3391,6 +3511,8 @@
     },
     {
       "id": 97,
+      "categoryId": 3,
+
       "name": "Magnum Truffle",
       "price": 4,
       "description": "Magnum Truffle (80 ml)",
@@ -3400,6 +3522,8 @@
     {
       "id": 96,
       "name": "Divine Chocolate(Tub)",
+      "categoryId": 3,
+
       "price": 6,
       "description": "Divine Chocolate (700 ml)",
       "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/divine-chocolate-tub.1df6b11e6e5d510cd11ae0d6e475686d.1.jpg?width=522",
@@ -3408,6 +3532,8 @@
     {
       "id": 95,
       "name": "Choco Volcano Cake",
+      "categoryId": 3,
+
       "price": 6,
       "description": "Choco Delight With A Gooey Chocolate Volcano Centre",
       "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/choco-volcano-cake.f829dc6e30a07b83f232b4880395162f.1.jpg",
@@ -3417,6 +3543,8 @@
       "name": "Cake",
       "price": "12",
       "img": "https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryId": 3,
+
       "quantity": 1,
       "id": 100
     },
@@ -3424,6 +3552,8 @@
       "name": "Lollipop",
       "price": "11",
       "img": "https://images.pexels.com/photos/1289363/pexels-photo-1289363.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryId": 3,
+
       "quantity": 1,
       "id": 101
     }
@@ -3440,6 +3570,10 @@
     {
       "id": 3,
       "name": "sweets"
+    },
+    {
+      "id": 4,
+      "name": "pizza"
     }
   ]
 }
