@@ -3429,6 +3429,17 @@
     }
   ],
   "categories": [
-    
+    {
+      "id": 1,
+      "name": "fast-food"
+    },
+    {
+      "id": 2,
+      "name": "drinks"
+    },
+    {
+      "id": 3,
+      "name": "sweets"
+    }
   ]
 }
