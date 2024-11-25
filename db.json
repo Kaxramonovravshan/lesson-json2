@@ -661,7 +661,7 @@
       "additional_tips": "",
       "alcoholic": true,
       "price": "12",
-      "img": "https://products3.imgix.drizly.com/ci-jameson-black-barrel-23ea6e770bbc32f3.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.liquor.com/thmb/77PGxS5iNswml_lHpmcbsA9aAaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2016__09__23074244__20th-century-720x720-recipe-bd1f065dad72460ab1dbe8bdf089e408.jpg",
       "garnish": "lemon twist",
       "ingredients": [
         {
@@ -757,7 +757,7 @@
       "additional_tips": "",
       "alcoholic": true,
       "price": "33",
-      "img": "https://products1.imgix.drizly.com/ci-the-glenlivet-14-year-cognac-cask-edition-3f28d819a520951c.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.liquor.com/thmb/6UhTxFJ3csexSHtMMXlk_PBYPZU=/720x720/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/50-50-martini-720x720-primary-6b661db5d92b48d9ab1fb31470f01992.jpg",
       "garnish": "lemon twist",
       "ingredients": [
         {
@@ -846,14 +846,13 @@
     {
       "id": "82869651ce2140288fcbea2e",
       "categoryId": 2,
-
       "spirit_id": "whiskey",
       "cocktail_name": "7 and 7",
       "description": "A 7 and 7 is a highball cocktail, a mixed alcoholic drink containing Seagram's Seven Crown and 7 Up. It is typically served with ice. It was one of the most popular drinks in the United States during the 1970s.",
       "additional_tips": "",
       "alcoholic": true,
       "price": "76",
-      "img": "https://products0.imgix.drizly.com/ci-the-glenlivet-18-year-old-338aefcb8222e3e3.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/old-fashioned-b40c0ce.jpg?quality=90&resize=500,454",
       "garnish": "",
       "ingredients": [
         {
@@ -920,13 +919,12 @@
     {
       "id": "300f86d70ea54ab5a9d40c20",
       "categoryId": 2,
-
       "spirit_id": "vodka",
       "cocktail_name": "Adios Motherfucker",
       "description": "Adios Motherfucker or AMF (also known as Boston tea party) is considered a variation of the Long Island Iced Tea with Blue Curaçao substituting for the triple sec, and with lemon-lime soda substituting for the cola.",
       "additional_tips": "",
       "price": "87",
-      "img": "https://products0.imgix.drizly.com/ci-the-glenlivet-15-year-old-french-oak-reserve-2ee34ffa65a6e163.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.2foodtrippers.com/wp-content/uploads/2022/05/Dirty-Shirley-Cocktail-with-Absolut-Vodka-Bottle-1024x1003.jpg",
       "alcoholic": true,
       "garnish": "lemon wedge and a brandied cherry",
       "ingredients": [
@@ -1052,13 +1050,12 @@
     {
       "id": "0b7ccfbaab3048a290f75070",
       "categoryId": 2,
-
       "spirit_id": "other",
       "cocktail_name": "Adonis",
       "description": "The Adonis is a sherry and vermouth-based cocktail, with equal parts of both. The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway. The Adonis has been described as being a lower alcohol, easier drinking cocktail.",
       "additional_tips": "",
       "price": "43",
-      "img": "https://products1.imgix.drizly.com/ci-ardbeg-10-year-d6ee359b9ebab294.png?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.barnews.ch/wp-content/uploads/classic-cocktail-adonis.jpg",
       "alcoholic": true,
       "garnish": "orange twist",
       "ingredients": [
@@ -1145,7 +1142,7 @@
       "description": " An Alabama Slammer is a cocktail made with amaretto, Southern Comfort, sloe gin, and orange juice. It is served in a Collins glass. It is also sometimes known as a Southern Slammer. It is claimed to have been made famous by quarterback Brett Favre; however, this drink was popular with college crowds as early as the 1980s, when it was served as a shaker shot in many bars and was also available as a \"pitcher\" in T.G.I. Friday's and other chain restaurants.",
       "additional_tips": "",
       "price": "32",
-      "img": "https://products0.imgix.drizly.com/ci-the-glenlivet-18-year-old-338aefcb8222e3e3.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.lemontreedwelling.com/wp-content/uploads/2024/04/alabama-slammer-featured.jpg",
       "alcoholic": true,
       "garnish": "orange wedge",
       "ingredients": [
@@ -1241,7 +1238,7 @@
       "description": "Made with Campari, sweet vermouth, and for the sparkling version, club soda and garnished with a slice of lemon. The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari in Milan, in the 1860s. It is the direct descendant of the \"Milano-Torino\" which consisted of Campari, the bitter liqueur from Milan (Milano) and Punt e Mes, the vermouth from Turin (Torino) but lacked soda water.",
       "additional_tips": "",
       "price": "11",
-      "img": "https://products0.imgix.drizly.com/ci-the-macallan-sherry-oak-12-year-9b288faf6f65506f.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.liquor.com/thmb/0zPi6PlxlFNpyhzbqVwU8LKG7og=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/americano-720x720-primary-49c598b03d2348c0822239979b73883c.jpg",
       "alcoholic": true,
       "garnish": "orange twist",
       "ingredients": [
@@ -1344,7 +1341,7 @@
       "description": "The Ancient Mariner is a tiki drink created by Jeff \"Beachbum\" Berry and Annene Kaye. It first appeared in their 1998 drink guide Beachbum Berry's Grog Log and is named after Coleridge's 1798 The Rime of the Ancient Mariner because in Berry's words “by the time we finished with it, that’s how old we felt. Its signature ingredient is pimento flavored liqueur, which in the United States is most commonly referred to as \"pimento dram\" or \"allspice dram\" due to conflation of pimento and pimenta.",
       "additional_tips": "",
       "price": "34",
-      "img": "https://products2.imgix.drizly.com/ci-laphroaig-scotch-whiskey-10-year-562417958d635017.png?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFA3-WuVv4P21qghp-NDTseW8zScMM9RYXhUopeiLA71l2ry8iW2cCb87Z63f1UytYBEdUSlL-8OpAsPy64uxEXjb95J4mY9UVwiGhm4hgOBpjvtOnlrCl6XWAA1b_KcsbpjHfKlsslX2q3SMemoBif8SgHjk0uuOimADg35vvVxwKZTnI-AQbMD3Q/w1200-h630-p-k-no-nu/Ancient-Mariner-Cocktail-045-websize-x500.jpg",
       "alcoholic": true,
       "garnish": "lime wedge and mint sprig",
       "ingredients": [
@@ -1449,7 +1446,7 @@
       "description": "The Angel Face is a cocktail made from gin, apricot brandy and Calvados in equal amounts. The cocktail first appears in the Savoy Cocktail Book compiled by Harry Craddock in 1930.",
       "additional_tips": "",
       "price": "19",
-      "img": "https://products1.imgix.drizly.com/ci-the-macallan-double-cask-15-years-old-532eedeb047ce812.png?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://res.cloudinary.com/htt8g4cd/images/f_auto,q_auto/v1730842625/wp/Angel_Face_Credit_Tyler_Zieliniski_1920x1280/Angel_Face_Credit_Tyler_Zieliniski_1920x1280.jpg?_i=AA",
       "alcoholic": true,
       "garnish": "orange twist",
       "ingredients": [
@@ -1543,7 +1540,7 @@
       "description": "The Aperol sunrise is a variant of tequila sunrise which substitutes Aperol orange liqueur for grenadine.",
       "additional_tips": "",
       "price": "10",
-      "img": "https://products2.imgix.drizly.com/ci-johnnie-walker-double-black-label-b5cd812c81603400.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-3FUzxoJlNOdpLFsxmXVWEhNtrB7XHQNNg&s",
       "alcoholic": true,
       "garnish": "orange wedge",
       "ingredients": [
@@ -1630,7 +1627,7 @@
       "description": "An apple martini (appletini for short) is a cocktail containing vodka and one or more of apple juice, apple cider, apple liqueur, or apple brandy. It is not a true martini, but is one of many drinks that incorporate the term martini into their names. This drink, originally called an Adam's Apple Martini because the bartender who created it was named Adam, was created in 1996 at Lola's West Hollywood restaurant.",
       "additional_tips": "",
       "price": "21",
-      "img": "https://products0.imgix.drizly.com/ci-the-famous-grouse-c14b9fccab7f38a3.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.liquor.com/thmb/sv91lrGrqOrH4iNMYDPC8eE5zdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__07__20084113__appletini-720x720-recipe-e40e3ceb5ca7493ab93d90019cbb56a7.jpg",
       "alcoholic": true,
       "garnish": "brandied cherry and Granny Smith apple slices",
       "ingredients": [
@@ -1735,7 +1732,7 @@
       "description": "The Aviation is a classic cocktail made with gin, maraschino liqueur, crème de violette, and lemon juice. Some recipes omit the crème de violette. It is served straight up, in a cocktail glass. The Aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe for the drink appeared in Ensslin's 1916 Recipes for Mixed Drinks. ",
       "additional_tips": "",
       "price": "34",
-      "img": "https://products1.imgix.drizly.com/ci-glenmorangie-18-year-1a27fe575a402cd0.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://i0.wp.com/www.slightlypretentious.co/wp-content/uploads/2020/04/Aviation-Cocktail-1x1-1.jpg?fit=1067%2C1067&ssl=1",
       "alcoholic": true,
       "garnish": "brandied cherry",
       "ingredients": [
@@ -1839,7 +1836,7 @@
       "additional_tips": "",
       "alcoholic": true,
       "price": "71",
-      "img": "https://products0.imgix.drizly.com/ci-jim-beam-double-oak-bourbon-whiskey-91dd7718a8f2a7a6.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://lh4.googleusercontent.com/proxy/6gwVCd4XKR1bjrtQtd2Q7RnksSellEzWpQLVvpaPONLfVbRiKesqT0lbgdvG98rK8uzyR2FH0zvW4J-9xGBJw0nVGkDbM4BMzaOklHTzGmDxGHI7yo-xVHVY94MwjIgK8VQ",
       "garnish": "",
       "ingredients": [
         {
@@ -1903,7 +1900,7 @@
       "description": "The barracuda is an alcoholic cocktail based on gold rum, Galliano liqueur, pineapple juice, fresh lime juice and topped with Prosecco, according to International Bartenders Association specified ingredients.",
       "additional_tips": "",
       "price": "51",
-      "img": "https://products3.imgix.drizly.com/ci-jack-daniels-old-no-7-92707d5e737cf4ac.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.puredrinkology.com/recipes/barracuda/images/cover_hua0b70130cbaae5beb1557c8663b48c14_268059_1000x0_resize_q75_box.jpeg",
       "alcoholic": true,
       "garnish": "pineapple wedge and cherry",
       "ingredients": [
@@ -2015,7 +2012,7 @@
       "description": "The Bay Breeze is a cocktail which has a Cape Codder as its base, with the addition of pineapple juice. The drink is also sometimes called a Downeaster, Hawaiian Sea Breeze, or a Paul Joseph. This cocktail is similar to the Sea Breeze, an IBA Official Cocktail with grapefruit juice (rather than pineapple).",
       "additional_tips": "",
       "price": "31",
-      "img": "https://products3.imgix.drizly.com/ci-high-west-double-rye-421a45abe5041aeb.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://ik.imagekit.io/vjt1kualr/drinks/malibu_bay_breeze/main-image.jpg",
       "alcoholic": true,
       "garnish": "lime wheel",
       "ingredients": [
@@ -2097,12 +2094,11 @@
       "id": "ae74ecfb007747809667de96",
       "spirit_id": "gin",
       "categoryId": 2,
-
       "cocktail_name": "Bee's Knees",
       "description": "A Bees Knees (or Bee's Knees) is a Prohibition Era cocktail made with gin, fresh lemon juice, and honey. It is served shaken and chilled, often with a lemon twist. The name comes from prohibition-era slang meaning \"the best\". The Bee's Knees was invented by Frank Meier, an Austrian-born, part Jewish bartender who was the first head bartender at the Ritz in Paris in 1921, when its Cafe Parisian opened its doors.",
       "additional_tips": "",
       "price": "21",
-      "img": "https://products0.imgix.drizly.com/ci-rittenhouse-rye-90f91e136374a268.png?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://www.liquor.com/thmb/NFzw_JJliBofheniy_KceB35msc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Bees-Knees-1200x628-email-94cb57d3a84640c9923846445241f112.jpg",
       "alcoholic": true,
       "garnish": "lemon twist",
       "ingredients": [
@@ -2205,7 +2201,7 @@
       "description": "A Bellini is a cocktail made with Prosecco and peach purée or nectar. It originated in Venice, Italy.",
       "additional_tips": "",
       "price": "30",
-      "img": "https://products3.imgix.drizly.com/ci-basil-haydens-dark-rye-b5636540a31b33a4.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/BELLINI-COCKTAIL-2.jpg",
       "alcoholic": true,
       "garnish": "peach slice",
       "ingredients": [
@@ -2290,7 +2286,7 @@
       "description": "The Between the Sheets is a cocktail consisting of rum, cognac, triple sec, and lemon juice. The origin of the cocktail is usually credited to Harry MacElhone at Harry's New York Bar in Paris in the 1930s as a derivative of the sidecar. However, competing theories exist that claim the cocktail was created at The Berkeley in approximately 1921, or in French brothels as an apéritif for consumption by the prostitutes.",
       "additional_tips": "Aged rum can be used instead of light rum.",
       "alcoholic": true,
-      "img": "https://products3.imgix.drizly.com/ci-john-barr-black-reserve-scotch-5b46de3223703f82.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://s3.amazonaws.com/perfectcontent/images/ad39dfd0-1953-11e6-bced-45404e44cb61.jpg",
       "garnish": "orange peel",
       "ingredients": [
         {
@@ -2392,7 +2388,7 @@
       "description": "A bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, \"the father of professional bartending\", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states \"mix well with a spoon and serve.\" This recipe is also one of the oldest in the manual, dating back to the 1890s.",
       "additional_tips": "",
       "price": "42",
-      "img": "https://products2.imgix.drizly.com/ci-jameson-irish-whiskey-83c0830f276cf30a.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://recipe.awesomedrinks.com/media/cocktails/bijou.jpg.700x700_q85_crop.jpg",
       "alcoholic": true,
       "garnish": "maraschino cherry (optional)",
       "ingredients": [
@@ -2489,7 +2485,7 @@
       "additional_tips": "",
       "alcoholic": true,
       "price": "27",
-      "img": "https://products1.imgix.drizly.com/ci-proper-twelve-irish-whiskey-24628987a7c6bc9e.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&dpr=2&fm=jpg&h=240&q=20",
+      "img": "https://ik.imagekit.io/vjt1kualr/drinks/black_russian/main-image.jpg",
       "garnish": "",
       "ingredients": [
         {
